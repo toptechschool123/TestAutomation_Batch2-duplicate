@@ -45,6 +45,8 @@ public class Xpath {
 		WebElement loginBttn =driver.findElement(By.xpath("//input[@id='signinbtn']"));
 		loginBttn.click();
 		
+		// it is xpath lectures 
+		
 		
 		
 		
